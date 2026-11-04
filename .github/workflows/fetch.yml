@@ -21,3 +21,4 @@ jobs:
           git add data.json
           git commit -m "Update Data" || exit 0
           git push
+          # update
